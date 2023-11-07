@@ -1,0 +1,33 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1945" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/drawable/ic_favorite.xml" value="0.1945" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/drawable/ic_logo_foreground.xml" value="0.1945" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/drawable/ic_search.xml" value="0.1945" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/drawable/search_background.xml" value="0.1945" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/layout/activity_article.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/layout/activity_favorite.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/layout/activity_search.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/layout/item_news.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/menu/menu_item.xml" value="0.2" />
+        <entry key="..\:/Users/Danil/Documents/FofocaOficial/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1945" />
+        <entry key="..\:/Users/LATITUDE 7280/Desktop/projetos/Fofoca-Tech/app/src/main/res/layout/activity_article.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/LATITUDE 7280/Desktop/projetos/Fofoca-Tech/app/src/main/res/layout/activity_favorite.xml" value="0.1" />
+        <entry key="..\:/Users/LATITUDE 7280/Desktop/projetos/Fofoca-Tech/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/LATITUDE 7280/Desktop/projetos/Fofoca-Tech/app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="..\:/Users/LATITUDE 7280/Desktop/projetos/Fofoca-Tech/app/src/main/res/layout/item_news.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
